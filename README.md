@@ -1,4 +1,4 @@
-# sentiment-classifier
+# Sentiment Classifier
 
 The repo contains code to train and test sentiment classifiers implemented using Naive Bayes classification techniques (Bernoulli, Multinomial).
 
